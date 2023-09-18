@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    min-width: 100px;
+    margin: auto;
+}
+
+p {
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: left;
+}
+
+h1 {
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-size: 64px;
+    font-weight: bold;
+}
